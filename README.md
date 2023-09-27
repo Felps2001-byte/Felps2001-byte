@@ -7,7 +7,7 @@
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felps2001-byte&show_icons=true&theme=tokyonight)
 
-### Tecnolgias que estou estuando 📚💻
+### Tecnolgias que estou estudando 📚💻
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
