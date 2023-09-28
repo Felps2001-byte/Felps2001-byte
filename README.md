@@ -5,7 +5,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-augusto-pedr%C3%A3o-da-silva-a4900b198)
 
-![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=Felps2001-byte&show_icons=true&theme=tokyonight)
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=felipeaugusto2001&show_icons=true&theme=tokyonight)
 
 ### Tecnolgias que estou estudando 📚💻
 
