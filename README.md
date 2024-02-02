@@ -17,7 +17,7 @@
       <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
-Eu sou nalista de redes e de comunicação de dados
+Eu sou analista de redes e de comunicação de dados
 
 •iSOC(Intelligent Service Operation Center)
 •NOC(Network Operation Center)
