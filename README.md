@@ -17,9 +17,31 @@
       <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
-Experiência profissional compatível aos meus estudos universitários, além dos conhecimentos adquiridos durante minha jornada na TIM Brasil.
-Realizo a monitoração da rede CORE em nível nacional na TIM Brasil, monitorando elementos de rede como: BSC, RNC, MSC, MGW, SERVER, SGSN,GGSN, UGW, vUGW.
-Análise de falhas e troubleshooting nos equipamentos de rede e transmissão.
+Eu sou nalista de redes e de comunicação de dados
+
+•iSOC(Intelligent Service Operation Center)
+•NOC(Network Operation Center)
+
+•Monitoração da rede CORE em nível nacional na TIM Brasil, monitorando elementos de rede como: BSC, RNC, MSC, MGW, SERVER, SGSN, GGSN, UGW, vUGW, MME, SBC, RSA, LBS, VSC, DNS.
+
+•Monitoração dos elementos NFVI (Network Functions Virtualization) VM (Virtual Machines), servidores físicos, ambientes virtuais, hosts, Network Switches, equipamentos de Storage NFV, Clusters, Datastores, VNF, Interfaces dos Switches
+Ferramentas:
+-Huawei E-sight
+-HP One View
+-NADMC (Nokia AirFrame Data Center Manager)
+-Cisco
+-Dell OpenManage
+-VMware- (vCenter,vRops, vSphere)
+
+•Análise de falhas e troubleshooting nos equipamentos de rede e transmissão.
+
+•Tratativa de RAN Sharing executando testes de PING e TRACEROUTE em conjunto com BBIP (Backbone IP) TIM e outras operadoras.
+
+•Análise de falhas e tratamento de queda de tráfego de dados e voz utilizando as ferramentas telcomanager e HotEOS.
+
+•Monitoração da infraestrutura física dos Datacenters de todos os prédios da TIM Brasil via HyperMatrix
+
+•Vendors: Huawei, Ericsson, Cisco, IBM, VMware, Nokia, Oracle.
 
 ## Contato:
 
