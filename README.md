@@ -20,6 +20,7 @@
 Eu sou analista de redes e de comunicação de dados
 
 •iSOC(Intelligent Service Operation Center)
+
 •NOC(Network Operation Center)
 
 •Monitoração da rede CORE em nível nacional na TIM Brasil, monitorando elementos de rede como: BSC, RNC, MSC, MGW, SERVER, SGSN, GGSN, UGW, vUGW, MME, SBC, RSA, LBS, VSC, DNS.
